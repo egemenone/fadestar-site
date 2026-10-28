@@ -1,2 +1,2 @@
-# Fadestar — fill in the AdMob publisher id (AdMob > Settings > Account information)
-# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+# Fadestar — Unity Ads
+unity.com, 18968530740476, DIRECT, 96cabb5fbdde37a7
